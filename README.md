@@ -4,8 +4,8 @@ Hola, mi nombre es Gino :trollface:
 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_TV-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mTheonigshow)
+[![Twitter Follow](https://twitter.com/mouredev)
+[![YouTube](https://youtube.com/@mTheonigshow)
 
 Soy estudiante de escuelas Proa
 
