@@ -1,9 +1,9 @@
 Hola, mi nombre es Gino :trollface: 
 ### Freelance full-stack iOS & Android engineer
 
-![https://github.com/mouredev](./mouredev_github_profile.png)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
+
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
 
 
