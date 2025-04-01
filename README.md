@@ -6,7 +6,7 @@ Soy estudiante de escuelas Proa
 
 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) Gino Di Francisco
 
- ⭐️ [GitHub star](https://github.com/juuann124)
+ ⭐️ [GitHub star](https://github.com/Ginno1234)
  
 ## Encuéntrame en: 
 [YouTube](https://youtube.com/@THEONIGSHOW)
